@@ -1,0 +1,48 @@
+// Typography
+$font-path: '/fonts';
+$mainFont: "SF-Pro-Display";
+
+@font-face {
+    font-family: "#{$mainFont}";
+    src: url('#{$font-path}/#{$mainFont}-Bold.ttf');
+    font-weight: bold;
+}
+@font-face {
+    font-family: "#{$mainFont}";
+    src: url('#{$font-path}/#{$mainFont}-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: "#{$mainFont}";
+    src: url('#{$font-path}/#{$mainFont}-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: "#{$mainFont}";
+    src: url('#{$font-path}/#{$mainFont}-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: "#{$mainFont}";
+    src: url('#{$font-path}/#{$mainFont}-Heavy.ttf');
+    font-weight: 900;
+}
+@font-face {
+    font-family: "#{$mainFont}";
+    src: url('#{$font-path}/#{$mainFont}-Black.ttf');
+    font-weight: 1000;
+}
+
+// Colors
+$white: #FFFFFF;
+$black: #000000;
+$grey-ligth: #D8D8D8;
+$grey: #9D9D9D;
+$grey-dark: #6F7072;
+$orange-ligth: #F44647;
+$orange: #FC4748;
+
+// Variables
+$nav-heigth: 100px;
+$breakpoint-smartphone: 766px;
+$breakpoint-tablet: 880px;
