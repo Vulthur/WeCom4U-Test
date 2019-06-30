@@ -107,22 +107,22 @@
     }
     
     .dropdown-item-main {
-        text-align: right;
-        padding: 5px 0;
-        width: auto;
         color: $white;
         font-size: 14px;
         letter-spacing: 0.4px;
         line-height: 20px;
+        padding: 5px 0;
+        text-align: right;
+        width: auto;
     }
     
     .dropdown-item-collapse {
-        padding: 5px 0;
-        width: auto;
         color: $black;
         font-size: 14px;
         letter-spacing: 0.4px;
         line-height: 14px;
+        padding: 5px 0;
+        width: auto;
     }
 
     .dropdown-item:hover {
@@ -135,8 +135,8 @@
     }
 
     .navbar {
-        padding: 0;
         height: $nav-heigth;
+        padding: 0;
         z-index: 1;
     }
 
@@ -147,8 +147,8 @@
     
     #header-button-close-collapse:active, 
     #header-button-close-collapse:focus {
-        outline: none !important;
         box-shadow: none;
+        outline: none !important;
     }
 
     .nav-link {
@@ -159,20 +159,20 @@
     // NavBar collapse
     .collapsing {
         -webkit-transition: none;
-        transition: none;
         display: none;
+        transition: none;
     }
 
     #menu-collapse {
+        background-color: $white;
+        color: $black;
         height: 100vh;
-        width: 100vw;
+        left: 0;
+        overflow: hidden;
         padding-top: -$nav-heigth;
         position: fixed;
         top: 0;
-        left: 0;
-        background-color: $white;
-        color: $black;
-        overflow: hidden;
+        width: 100vw;
     }
 
     #header-logo-collapse {
@@ -181,9 +181,9 @@
     }
     
     #header-button-close-collapse {
-        float: right;
-        border: 0;
         background-color: $white;
+        border: 0;
+        float: right;
     }
 
     #header-toggler-icon-collapse {
@@ -192,10 +192,10 @@
     }
 
     #header-menu-collapsed {
-        padding-left: 40px;
-        padding-top: 50px;
         font-size: 36px;
         font-weight: bold; 
+        padding-left: 40px;
+        padding-top: 50px;
     }
 
     #header-menu-collapsed-drop {
@@ -203,15 +203,15 @@
     }
 
     #header-menu-collapsed-adress {
+        bottom: 50px;
+        color: $grey;
         font-size: 24px;
+        font-weight: 300;
+        left: 40px;
         letter-spacing: 0.45px;
         line-height: 37px;
-        font-weight: 300;
-        white-space: nowrap;
-        color: $grey;
         position: fixed;
-        bottom: 50px;
-        left: 40px;
+        white-space: nowrap;
     }
 
     // Responsive

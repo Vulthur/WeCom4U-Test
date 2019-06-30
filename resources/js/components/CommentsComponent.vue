@@ -68,8 +68,8 @@
 
     .comments-icon {
         height: 46px;
-        width: 46px;
         margin-left: 22px;
+        width: 46px;
     }
 
      @media (max-width: $breakpoint-smartphone) {

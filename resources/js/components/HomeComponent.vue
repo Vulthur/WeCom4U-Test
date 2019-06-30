@@ -1,5 +1,6 @@
 <template>
     <section id="home">
+        <!-- TOP -->
         <div id="home-hero">
             <div id="home-hero-content" class="container">
                 <div id="home-hero-content_text" class="row font-text-small">
@@ -19,6 +20,7 @@
                 </div>
             </div>
         </div>
+        <!-- INTRODUCTION -->
         <div id="home-arbizon" ref="arbizon">
             <div id="home-arbizon-content" class="container">
                 <div id="home-arbizon-content_description" class="row font-text-medium">
@@ -53,8 +55,10 @@
                 </div>
             </div>
         </div>
+        <!-- PARALLAX -->
         <div id="home-parallax">
         </div>
+        <!-- LAST HIKE -->
         <div v-if="lastHike" id="home-last-hike" class="container">
             <div class="row">
                 <div class="col-md-5">
@@ -112,6 +116,7 @@
 <style lang="scss" scoped>
     @import '~@/_variables.scss';
 
+    // TOP
     #home-hero {
         background-image: url("/images/desktop_hero_background.jpg");
         background-repeat: no-repeat;
@@ -140,6 +145,7 @@
         width: 235px;
     }
 
+    // INTRODUCTION
     #home-arbizon {
         background-image: url("/images/desktop_section1_background.svg");
         background-position: right top;
@@ -155,8 +161,8 @@
 
     #home-arbizon-content_title {
         color: $black;
-        padding-top: 40px;
         padding-right: 31px;
+        padding-top: 40px;
     }
 
     #home-arbizon-content_text {
@@ -164,6 +170,7 @@
         padding-top: 69px;
     }
 
+    // PARALLAX
     #home-parallax {
         background-attachment: fixed;
         background-image: url("/images/desktop_parallax_background.jpg");
@@ -175,6 +182,7 @@
         width: 100%;
     }
 
+    // LAST HIKE
     #home-last-hike_difficulty {
         color: $orange;
         margin-top: 45px;
@@ -219,8 +227,8 @@
         #home-last-hike_title {
             font-size: 38px;
             font-weight: 900;
-            line-height: 40px;
             letter-spacing: 0.4px;
+            line-height: 40px;
         }
     }
 
@@ -229,7 +237,4 @@
             height: auto;
         }
     }
-
-
-    
 </style>

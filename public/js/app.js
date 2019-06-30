@@ -2094,6 +2094,8 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _SocialComponent_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../SocialComponent.vue */ "./resources/js/components/SocialComponent.vue");
+/* harmony import */ var _CommentsComponent_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../CommentsComponent.vue */ "./resources/js/components/CommentsComponent.vue");
 //
 //
 //
@@ -2103,9 +2105,97 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
 /* harmony default export */ __webpack_exports__["default"] = ({
-  props: {},
-  mounted: function mounted() {}
+  props: {
+    hike: Object
+  },
+  components: {
+    SocialComponent: _SocialComponent_vue__WEBPACK_IMPORTED_MODULE_0__["default"],
+    CommentsComponent: _CommentsComponent_vue__WEBPACK_IMPORTED_MODULE_1__["default"]
+  }
 });
 
 /***/ }),
@@ -2119,6 +2209,8 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _SocialComponent_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../SocialComponent.vue */ "./resources/js/components/SocialComponent.vue");
+/* harmony import */ var _CommentsComponent_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../CommentsComponent.vue */ "./resources/js/components/CommentsComponent.vue");
 //
 //
 //
@@ -2128,9 +2220,97 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
 /* harmony default export */ __webpack_exports__["default"] = ({
-  props: {},
-  mounted: function mounted() {}
+  props: {
+    hike: Object
+  },
+  components: {
+    SocialComponent: _SocialComponent_vue__WEBPACK_IMPORTED_MODULE_0__["default"],
+    CommentsComponent: _CommentsComponent_vue__WEBPACK_IMPORTED_MODULE_1__["default"]
+  }
 });
 
 /***/ }),
@@ -2259,6 +2439,8 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _SocialComponent_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../SocialComponent.vue */ "./resources/js/components/SocialComponent.vue");
+/* harmony import */ var _CommentsComponent_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../CommentsComponent.vue */ "./resources/js/components/CommentsComponent.vue");
 //
 //
 //
@@ -2268,9 +2450,97 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
 /* harmony default export */ __webpack_exports__["default"] = ({
-  props: {},
-  mounted: function mounted() {}
+  props: {
+    hike: Object
+  },
+  components: {
+    SocialComponent: _SocialComponent_vue__WEBPACK_IMPORTED_MODULE_0__["default"],
+    CommentsComponent: _CommentsComponent_vue__WEBPACK_IMPORTED_MODULE_1__["default"]
+  }
 });
 
 /***/ }),
@@ -2284,6 +2554,8 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _SocialComponent_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../SocialComponent.vue */ "./resources/js/components/SocialComponent.vue");
+/* harmony import */ var _CommentsComponent_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../CommentsComponent.vue */ "./resources/js/components/CommentsComponent.vue");
 //
 //
 //
@@ -2293,9 +2565,97 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
 /* harmony default export */ __webpack_exports__["default"] = ({
-  props: {},
-  mounted: function mounted() {}
+  props: {
+    hike: Object
+  },
+  components: {
+    SocialComponent: _SocialComponent_vue__WEBPACK_IMPORTED_MODULE_0__["default"],
+    CommentsComponent: _CommentsComponent_vue__WEBPACK_IMPORTED_MODULE_1__["default"]
+  }
 });
 
 /***/ }),
@@ -2309,6 +2669,8 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _SocialComponent_vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../SocialComponent.vue */ "./resources/js/components/SocialComponent.vue");
+/* harmony import */ var _CommentsComponent_vue__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../CommentsComponent.vue */ "./resources/js/components/CommentsComponent.vue");
 //
 //
 //
@@ -2318,9 +2680,97 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
 /* harmony default export */ __webpack_exports__["default"] = ({
-  props: {},
-  mounted: function mounted() {}
+  props: {
+    hike: Object
+  },
+  components: {
+    SocialComponent: _SocialComponent_vue__WEBPACK_IMPORTED_MODULE_0__["default"],
+    CommentsComponent: _CommentsComponent_vue__WEBPACK_IMPORTED_MODULE_1__["default"]
+  }
 });
 
 /***/ }),
@@ -2379,6 +2829,10 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
 //
 //
 //
@@ -2539,29 +2993,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
 //
 //
@@ -7047,7 +7478,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#comments[data-v-0ed47be4] {\n  background-color: #FFFFFF;\n}\n#comments-list[data-v-0ed47be4] {\n  padding-top: 32px;\n}\n#comments-title[data-v-0ed47be4] {\n  padding-top: 82px;\n}\n.comment[data-v-0ed47be4] {\n  padding-top: 24px;\n}\n.comment-content[data-v-0ed47be4] {\n  margin-top: -8px;\n  padding-left: 22px;\n  max-width: 80%;\n}\n.comment-name[data-v-0ed47be4] {\n  color: #6F7072;\n  font-size: 18px;\n  font-weight: bold;\n  letter-spacing: 0.45px;\n  line-height: 36px;\n  margin-bottom: -4px;\n}\n.comment-text[data-v-0ed47be4] {\n  color: #6F7072;\n}\n.comments-icon[data-v-0ed47be4] {\n  height: 46px;\n  width: 46px;\n  margin-left: 22px;\n}\n@media (max-width: 766px) {\n.comment-text[data-v-0ed47be4] {\n    font-size: 17px;\n}\n}", ""]);
+exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#comments[data-v-0ed47be4] {\n  background-color: #FFFFFF;\n}\n#comments-list[data-v-0ed47be4] {\n  padding-top: 32px;\n}\n#comments-title[data-v-0ed47be4] {\n  padding-top: 82px;\n}\n.comment[data-v-0ed47be4] {\n  padding-top: 24px;\n}\n.comment-content[data-v-0ed47be4] {\n  margin-top: -8px;\n  padding-left: 22px;\n  max-width: 80%;\n}\n.comment-name[data-v-0ed47be4] {\n  color: #6F7072;\n  font-size: 18px;\n  font-weight: bold;\n  letter-spacing: 0.45px;\n  line-height: 36px;\n  margin-bottom: -4px;\n}\n.comment-text[data-v-0ed47be4] {\n  color: #6F7072;\n}\n.comments-icon[data-v-0ed47be4] {\n  height: 46px;\n  margin-left: 22px;\n  width: 46px;\n}\n@media (max-width: 766px) {\n.comment-text[data-v-0ed47be4] {\n    font-size: 17px;\n}\n}", ""]);
 
 // exports
 
@@ -7085,7 +7516,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#header-logo[data-v-153bfd55] {\n  padding-left: 52px;\n  padding-top: 52px;\n}\n#header-menu[data-v-153bfd55] {\n  padding-right: 50px;\n  padding-top: 50px;\n}\n#header-menu-collapse > ul > li[data-v-153bfd55] {\n  color: #FFFFFF;\n  font-size: 16px;\n  font-weight: bold;\n  letter-spacing: 0.4px;\n  line-height: 19px;\n  padding-left: 42px;\n}\n#header-toggler-icon[data-v-153bfd55] {\n  padding-right: 50px;\n  padding-top: 50px;\n}\n.dropdown-item-main[data-v-153bfd55] {\n  text-align: right;\n  padding: 5px 0;\n  width: auto;\n  color: #FFFFFF;\n  font-size: 14px;\n  letter-spacing: 0.4px;\n  line-height: 20px;\n}\n.dropdown-item-collapse[data-v-153bfd55] {\n  padding: 5px 0;\n  width: auto;\n  color: #000000;\n  font-size: 14px;\n  letter-spacing: 0.4px;\n  line-height: 14px;\n}\n.dropdown-item[data-v-153bfd55]:hover {\n  background-color: rgba(0, 0, 0, 0);\n}\n.dropdown-menu[data-v-153bfd55] {\n  background-color: rgba(0, 0, 0, 0);\n  border: 0px;\n}\n.navbar[data-v-153bfd55] {\n  padding: 0;\n  height: 100px;\n  z-index: 1;\n}\n.navbar-toggler[data-v-153bfd55] {\n  border: 0;\n  padding: 0;\n}\n#header-button-close-collapse[data-v-153bfd55]:active,\n#header-button-close-collapse[data-v-153bfd55]:focus {\n  outline: none !important;\n  box-shadow: none;\n}\n.nav-link[data-v-153bfd55] {\n  color: #FFFFFF;\n  padding: 0 !important;\n}\n.collapsing[data-v-153bfd55] {\n  -webkit-transition: none;\n  transition: none;\n  display: none;\n}\n#menu-collapse[data-v-153bfd55] {\n  height: 100vh;\n  width: 100vw;\n  padding-top: -100px;\n  position: fixed;\n  top: 0;\n  left: 0;\n  background-color: #FFFFFF;\n  color: #000000;\n  overflow: hidden;\n}\n#header-logo-collapse[data-v-153bfd55] {\n  padding-left: 40px;\n  padding-top: 40px;\n}\n#header-button-close-collapse[data-v-153bfd55] {\n  float: right;\n  border: 0;\n  background-color: #FFFFFF;\n}\n#header-toggler-icon-collapse[data-v-153bfd55] {\n  padding-right: 35px;\n  padding-top: 35px;\n}\n#header-menu-collapsed[data-v-153bfd55] {\n  padding-left: 40px;\n  padding-top: 50px;\n  font-size: 36px;\n  font-weight: bold;\n}\n#header-menu-collapsed-drop[data-v-153bfd55] {\n  padding-top: 20px;\n}\n#header-menu-collapsed-adress[data-v-153bfd55] {\n  font-size: 24px;\n  letter-spacing: 0.45px;\n  line-height: 37px;\n  font-weight: 300;\n  white-space: nowrap;\n  color: #9D9D9D;\n  position: fixed;\n  bottom: 50px;\n  left: 40px;\n}\n@media (max-width: 766px) {\n#header-logo[data-v-153bfd55] {\n    padding-left: 40px;\n    padding-top: 0px;\n}\n#header-toggler-icon[data-v-153bfd55] {\n    padding-right: 30px;\n    padding-top: 0px;\n}\n}", ""]);
+exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#header-logo[data-v-153bfd55] {\n  padding-left: 52px;\n  padding-top: 52px;\n}\n#header-menu[data-v-153bfd55] {\n  padding-right: 50px;\n  padding-top: 50px;\n}\n#header-menu-collapse > ul > li[data-v-153bfd55] {\n  color: #FFFFFF;\n  font-size: 16px;\n  font-weight: bold;\n  letter-spacing: 0.4px;\n  line-height: 19px;\n  padding-left: 42px;\n}\n#header-toggler-icon[data-v-153bfd55] {\n  padding-right: 50px;\n  padding-top: 50px;\n}\n.dropdown-item-main[data-v-153bfd55] {\n  color: #FFFFFF;\n  font-size: 14px;\n  letter-spacing: 0.4px;\n  line-height: 20px;\n  padding: 5px 0;\n  text-align: right;\n  width: auto;\n}\n.dropdown-item-collapse[data-v-153bfd55] {\n  color: #000000;\n  font-size: 14px;\n  letter-spacing: 0.4px;\n  line-height: 14px;\n  padding: 5px 0;\n  width: auto;\n}\n.dropdown-item[data-v-153bfd55]:hover {\n  background-color: rgba(0, 0, 0, 0);\n}\n.dropdown-menu[data-v-153bfd55] {\n  background-color: rgba(0, 0, 0, 0);\n  border: 0px;\n}\n.navbar[data-v-153bfd55] {\n  height: 100px;\n  padding: 0;\n  z-index: 1;\n}\n.navbar-toggler[data-v-153bfd55] {\n  border: 0;\n  padding: 0;\n}\n#header-button-close-collapse[data-v-153bfd55]:active,\n#header-button-close-collapse[data-v-153bfd55]:focus {\n  box-shadow: none;\n  outline: none !important;\n}\n.nav-link[data-v-153bfd55] {\n  color: #FFFFFF;\n  padding: 0 !important;\n}\n.collapsing[data-v-153bfd55] {\n  -webkit-transition: none;\n  display: none;\n  transition: none;\n}\n#menu-collapse[data-v-153bfd55] {\n  background-color: #FFFFFF;\n  color: #000000;\n  height: 100vh;\n  left: 0;\n  overflow: hidden;\n  padding-top: -100px;\n  position: fixed;\n  top: 0;\n  width: 100vw;\n}\n#header-logo-collapse[data-v-153bfd55] {\n  padding-left: 40px;\n  padding-top: 40px;\n}\n#header-button-close-collapse[data-v-153bfd55] {\n  background-color: #FFFFFF;\n  border: 0;\n  float: right;\n}\n#header-toggler-icon-collapse[data-v-153bfd55] {\n  padding-right: 35px;\n  padding-top: 35px;\n}\n#header-menu-collapsed[data-v-153bfd55] {\n  font-size: 36px;\n  font-weight: bold;\n  padding-left: 40px;\n  padding-top: 50px;\n}\n#header-menu-collapsed-drop[data-v-153bfd55] {\n  padding-top: 20px;\n}\n#header-menu-collapsed-adress[data-v-153bfd55] {\n  bottom: 50px;\n  color: #9D9D9D;\n  font-size: 24px;\n  font-weight: 300;\n  left: 40px;\n  letter-spacing: 0.45px;\n  line-height: 37px;\n  position: fixed;\n  white-space: nowrap;\n}\n@media (max-width: 766px) {\n#header-logo[data-v-153bfd55] {\n    padding-left: 40px;\n    padding-top: 0px;\n}\n#header-toggler-icon[data-v-153bfd55] {\n    padding-right: 30px;\n    padding-top: 0px;\n}\n}", ""]);
 
 // exports
 
@@ -7104,7 +7535,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#hike-raptor[data-v-603f35fa] {\n  padding-right: 0;\n  padding-left: 0;\n  height: 100%;\n}\n#hike-raptor-background[data-v-603f35fa] {\n  height: 80%;\n  background-image: url(\"/images/desktop_hike_raptor_background.jpg\");\n  background-repeat: no-repeat;\n  background-size: cover;\n}", ""]);
+exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#hike-raptor-hero[data-v-603f35fa] {\n  height: 80vh;\n  width: 100%;\n  background-image: url(\"/images/desktop_hike_raptor_background.jpg\");\n  background-repeat: no-repeat;\n  background-size: cover;\n  background-position: center;\n}\n#hike-raptor-hero-content[data-v-603f35fa] {\n  padding-top: 200px;\n  color: #FFFFFF;\n}\n#hike-raptor-hero-content_title[data-v-603f35fa] {\n  margin-top: 54px;\n}\n#hike-raptor-body_intro[data-v-603f35fa] {\n  color: #6F7072;\n  margin-top: 48px;\n}\n#hike-raptor-body_title[data-v-603f35fa] {\n  margin-top: 30px;\n}\n#hike-raptor-body_texte[data-v-603f35fa] {\n  margin-top: 32px;\n}\n#hike-raptor-images[data-v-603f35fa] {\n  padding: 0;\n  margin-top: 74px;\n}\n.label-image[data-v-603f35fa] {\n  position: absolute;\n  bottom: 70px;\n  left: 90px;\n  font-size: 54px;\n  font-weight: 900;\n  letter-spacing: 1.36px;\n  line-height: 64px;\n  color: #FFFFFF;\n}\n.image-mobile[data-v-603f35fa] {\n  display: none;\n}\n@media (max-width: 766px) {\n#hike-raptor-hero[data-v-603f35fa] {\n    height: 100vh;\n}\n#hike-raptor-hero-content[data-v-603f35fa] {\n    padding-top: 350px;\n}\n#hike-raptor-body_title[data-v-603f35fa] {\n    font-size: 36px;\n    font-weight: 900;\n    line-height: 40px;\n    letter-spacing: 0.2px;\n}\n#hike-raptor-body_intro[data-v-603f35fa],\n#hike-raptor-body_texte[data-v-603f35fa] {\n    text-align: justify;\n}\n#hike-raptor-body_texte[data-v-603f35fa] {\n    font-size: 18px;\n    letter-spacing: 2px;\n}\n.label-image[data-v-603f35fa] {\n    font-size: 45px;\n    left: 30px;\n    width: 50%;\n    line-height: 50px;\n}\n.image-desktop[data-v-603f35fa] {\n    display: none;\n}\n.image-mobile[data-v-603f35fa] {\n    display: block;\n}\n}", ""]);
 
 // exports
 
@@ -7123,7 +7554,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#hike-raptor[data-v-67fd49c5] {\n  padding-right: 0;\n  padding-left: 0;\n  height: 100%;\n}\n#hike-raptor-background[data-v-67fd49c5] {\n  height: 80%;\n  background-image: url(\"/images/desktop_hike_raptor_background.jpg\");\n  background-repeat: no-repeat;\n  background-size: cover;\n}", ""]);
+exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#hike-raptor-hero[data-v-67fd49c5] {\n  height: 80vh;\n  width: 100%;\n  background-image: url(\"/images/desktop_hike_raptor_background.jpg\");\n  background-repeat: no-repeat;\n  background-size: cover;\n  background-position: center;\n}\n#hike-raptor-hero-content[data-v-67fd49c5] {\n  padding-top: 200px;\n  color: #FFFFFF;\n}\n#hike-raptor-hero-content_title[data-v-67fd49c5] {\n  margin-top: 54px;\n}\n#hike-raptor-body_intro[data-v-67fd49c5] {\n  color: #6F7072;\n  margin-top: 48px;\n}\n#hike-raptor-body_title[data-v-67fd49c5] {\n  margin-top: 30px;\n}\n#hike-raptor-body_texte[data-v-67fd49c5] {\n  margin-top: 32px;\n}\n#hike-raptor-images[data-v-67fd49c5] {\n  padding: 0;\n  margin-top: 74px;\n}\n.label-image[data-v-67fd49c5] {\n  position: absolute;\n  bottom: 70px;\n  left: 90px;\n  font-size: 54px;\n  font-weight: 900;\n  letter-spacing: 1.36px;\n  line-height: 64px;\n  color: #FFFFFF;\n}\n.image-mobile[data-v-67fd49c5] {\n  display: none;\n}\n@media (max-width: 766px) {\n#hike-raptor-hero[data-v-67fd49c5] {\n    height: 100vh;\n}\n#hike-raptor-hero-content[data-v-67fd49c5] {\n    padding-top: 350px;\n}\n#hike-raptor-body_title[data-v-67fd49c5] {\n    font-size: 36px;\n    font-weight: 900;\n    line-height: 40px;\n    letter-spacing: 0.2px;\n}\n#hike-raptor-body_intro[data-v-67fd49c5],\n#hike-raptor-body_texte[data-v-67fd49c5] {\n    text-align: justify;\n}\n#hike-raptor-body_texte[data-v-67fd49c5] {\n    font-size: 18px;\n    letter-spacing: 2px;\n}\n.label-image[data-v-67fd49c5] {\n    font-size: 45px;\n    left: 30px;\n    width: 50%;\n    line-height: 50px;\n}\n.image-desktop[data-v-67fd49c5] {\n    display: none;\n}\n.image-mobile[data-v-67fd49c5] {\n    display: block;\n}\n}", ""]);
 
 // exports
 
@@ -7161,7 +7592,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#hike-raptor[data-v-14c76e3e] {\n  padding-right: 0;\n  padding-left: 0;\n  height: 100%;\n}\n#hike-raptor-background[data-v-14c76e3e] {\n  height: 80%;\n  background-image: url(\"/images/desktop_hike_raptor_background.jpg\");\n  background-repeat: no-repeat;\n  background-size: cover;\n}", ""]);
+exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#hike-raptor-hero[data-v-14c76e3e] {\n  height: 80vh;\n  width: 100%;\n  background-image: url(\"/images/desktop_hike_raptor_background.jpg\");\n  background-repeat: no-repeat;\n  background-size: cover;\n  background-position: center;\n}\n#hike-raptor-hero-content[data-v-14c76e3e] {\n  padding-top: 200px;\n  color: #FFFFFF;\n}\n#hike-raptor-hero-content_title[data-v-14c76e3e] {\n  margin-top: 54px;\n}\n#hike-raptor-body_intro[data-v-14c76e3e] {\n  color: #6F7072;\n  margin-top: 48px;\n}\n#hike-raptor-body_title[data-v-14c76e3e] {\n  margin-top: 30px;\n}\n#hike-raptor-body_texte[data-v-14c76e3e] {\n  margin-top: 32px;\n}\n#hike-raptor-images[data-v-14c76e3e] {\n  padding: 0;\n  margin-top: 74px;\n}\n.label-image[data-v-14c76e3e] {\n  position: absolute;\n  bottom: 70px;\n  left: 90px;\n  font-size: 54px;\n  font-weight: 900;\n  letter-spacing: 1.36px;\n  line-height: 64px;\n  color: #FFFFFF;\n}\n.image-mobile[data-v-14c76e3e] {\n  display: none;\n}\n@media (max-width: 766px) {\n#hike-raptor-hero[data-v-14c76e3e] {\n    height: 100vh;\n}\n#hike-raptor-hero-content[data-v-14c76e3e] {\n    padding-top: 350px;\n}\n#hike-raptor-body_title[data-v-14c76e3e] {\n    font-size: 36px;\n    font-weight: 900;\n    line-height: 40px;\n    letter-spacing: 0.2px;\n}\n#hike-raptor-body_intro[data-v-14c76e3e],\n#hike-raptor-body_texte[data-v-14c76e3e] {\n    text-align: justify;\n}\n#hike-raptor-body_texte[data-v-14c76e3e] {\n    font-size: 18px;\n    letter-spacing: 2px;\n}\n.label-image[data-v-14c76e3e] {\n    font-size: 45px;\n    left: 30px;\n    width: 50%;\n    line-height: 50px;\n}\n.image-desktop[data-v-14c76e3e] {\n    display: none;\n}\n.image-mobile[data-v-14c76e3e] {\n    display: block;\n}\n}", ""]);
 
 // exports
 
@@ -7180,7 +7611,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#hike-raptor[data-v-72f1b8ca] {\n  padding-right: 0;\n  padding-left: 0;\n  height: 100%;\n}\n#hike-raptor-background[data-v-72f1b8ca] {\n  height: 80%;\n  background-image: url(\"/images/desktop_hike_raptor_background.jpg\");\n  background-repeat: no-repeat;\n  background-size: cover;\n}", ""]);
+exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#hike-raptor-hero[data-v-72f1b8ca] {\n  height: 80vh;\n  width: 100%;\n  background-image: url(\"/images/desktop_hike_raptor_background.jpg\");\n  background-repeat: no-repeat;\n  background-size: cover;\n  background-position: center;\n}\n#hike-raptor-hero-content[data-v-72f1b8ca] {\n  padding-top: 200px;\n  color: #FFFFFF;\n}\n#hike-raptor-hero-content_title[data-v-72f1b8ca] {\n  margin-top: 54px;\n}\n#hike-raptor-body_intro[data-v-72f1b8ca] {\n  color: #6F7072;\n  margin-top: 48px;\n}\n#hike-raptor-body_title[data-v-72f1b8ca] {\n  margin-top: 30px;\n}\n#hike-raptor-body_texte[data-v-72f1b8ca] {\n  margin-top: 32px;\n}\n#hike-raptor-images[data-v-72f1b8ca] {\n  padding: 0;\n  margin-top: 74px;\n}\n.label-image[data-v-72f1b8ca] {\n  position: absolute;\n  bottom: 70px;\n  left: 90px;\n  font-size: 54px;\n  font-weight: 900;\n  letter-spacing: 1.36px;\n  line-height: 64px;\n  color: #FFFFFF;\n}\n.image-mobile[data-v-72f1b8ca] {\n  display: none;\n}\n@media (max-width: 766px) {\n#hike-raptor-hero[data-v-72f1b8ca] {\n    height: 100vh;\n}\n#hike-raptor-hero-content[data-v-72f1b8ca] {\n    padding-top: 350px;\n}\n#hike-raptor-body_title[data-v-72f1b8ca] {\n    font-size: 36px;\n    font-weight: 900;\n    line-height: 40px;\n    letter-spacing: 0.2px;\n}\n#hike-raptor-body_intro[data-v-72f1b8ca],\n#hike-raptor-body_texte[data-v-72f1b8ca] {\n    text-align: justify;\n}\n#hike-raptor-body_texte[data-v-72f1b8ca] {\n    font-size: 18px;\n    letter-spacing: 2px;\n}\n.label-image[data-v-72f1b8ca] {\n    font-size: 45px;\n    left: 30px;\n    width: 50%;\n    line-height: 50px;\n}\n.image-desktop[data-v-72f1b8ca] {\n    display: none;\n}\n.image-mobile[data-v-72f1b8ca] {\n    display: block;\n}\n}", ""]);
 
 // exports
 
@@ -7199,7 +7630,7 @@ exports = module.exports = __webpack_require__(/*! ../../../../node_modules/css-
 
 
 // module
-exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#hike-raptor[data-v-8f3db766] {\n  padding-right: 0;\n  padding-left: 0;\n  height: 100%;\n}\n#hike-raptor-background[data-v-8f3db766] {\n  height: 80%;\n  background-image: url(\"/images/desktop_hike_raptor_background.jpg\");\n  background-repeat: no-repeat;\n  background-size: cover;\n}", ""]);
+exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#hike-raptor-hero[data-v-8f3db766] {\n  height: 80vh;\n  width: 100%;\n  background-image: url(\"/images/desktop_hike_raptor_background.jpg\");\n  background-repeat: no-repeat;\n  background-size: cover;\n  background-position: center;\n}\n#hike-raptor-hero-content[data-v-8f3db766] {\n  padding-top: 200px;\n  color: #FFFFFF;\n}\n#hike-raptor-hero-content_title[data-v-8f3db766] {\n  margin-top: 54px;\n}\n#hike-raptor-body_intro[data-v-8f3db766] {\n  color: #6F7072;\n  margin-top: 48px;\n}\n#hike-raptor-body_title[data-v-8f3db766] {\n  margin-top: 30px;\n}\n#hike-raptor-body_texte[data-v-8f3db766] {\n  margin-top: 32px;\n}\n#hike-raptor-images[data-v-8f3db766] {\n  padding: 0;\n  margin-top: 74px;\n}\n.label-image[data-v-8f3db766] {\n  position: absolute;\n  bottom: 70px;\n  left: 90px;\n  font-size: 54px;\n  font-weight: 900;\n  letter-spacing: 1.36px;\n  line-height: 64px;\n  color: #FFFFFF;\n}\n.image-mobile[data-v-8f3db766] {\n  display: none;\n}\n@media (max-width: 766px) {\n#hike-raptor-hero[data-v-8f3db766] {\n    height: 100vh;\n}\n#hike-raptor-hero-content[data-v-8f3db766] {\n    padding-top: 350px;\n}\n#hike-raptor-body_title[data-v-8f3db766] {\n    font-size: 36px;\n    font-weight: 900;\n    line-height: 40px;\n    letter-spacing: 0.2px;\n}\n#hike-raptor-body_intro[data-v-8f3db766],\n#hike-raptor-body_texte[data-v-8f3db766] {\n    text-align: justify;\n}\n#hike-raptor-body_texte[data-v-8f3db766] {\n    font-size: 18px;\n    letter-spacing: 2px;\n}\n.label-image[data-v-8f3db766] {\n    font-size: 45px;\n    left: 30px;\n    width: 50%;\n    line-height: 50px;\n}\n.image-desktop[data-v-8f3db766] {\n    display: none;\n}\n.image-mobile[data-v-8f3db766] {\n    display: block;\n}\n}", ""]);
 
 // exports
 
@@ -7237,7 +7668,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#home-hero[data-v-782dcf83] {\n  background-image: url(\"/images/desktop_hero_background.jpg\");\n  background-repeat: no-repeat;\n  background-size: cover;\n  min-height: 100vh;\n  width: 100%;\n}\n#home-hero-content[data-v-782dcf83] {\n  color: #FFFFFF;\n  padding-top: 200px;\n}\n#home-hero-content_title[data-v-782dcf83] {\n  margin-top: 54px;\n  width: 274px;\n}\n#home-hero-content_link[data-v-782dcf83] {\n  border-bottom: 4px solid #FC4748;\n  margin-left: 0;\n  margin-top: 54px;\n  padding-bottom: 16px;\n  padding-left: 0;\n  padding-right: 0;\n  width: 235px;\n}\n#home-arbizon[data-v-782dcf83] {\n  background-image: url(\"/images/desktop_section1_background.svg\");\n  background-position: right top;\n  background-repeat: no-repeat;\n  height: 100vh;\n  width: 100%;\n}\n#home-arbizon-content_description[data-v-782dcf83] {\n  color: #FC4748;\n  padding-top: 177px;\n}\n#home-arbizon-content_title[data-v-782dcf83] {\n  color: #000000;\n  padding-top: 40px;\n  padding-right: 31px;\n}\n#home-arbizon-content_text[data-v-782dcf83] {\n  color: #6F7072;\n  padding-top: 69px;\n}\n#home-parallax[data-v-782dcf83] {\n  background-attachment: fixed;\n  background-image: url(\"/images/desktop_parallax_background.jpg\");\n  background-position: center;\n  background-repeat: no-repeat;\n  background-size: cover;\n  height: 70vh;\n  margin-bottom: 82px;\n  width: 100%;\n}\n#home-last-hike_difficulty[data-v-782dcf83] {\n  color: #FC4748;\n  margin-top: 45px;\n}\n#home-last-hike_title[data-v-782dcf83] {\n  margin-top: 42px;\n}\n#home-last-hike_text[data-v-782dcf83] {\n  color: #6F7072;\n  margin-top: 33px;\n}\n#home-last-hike_link[data-v-782dcf83] {\n  border-bottom: 4px solid #FC4748;\n  color: inherit;\n  margin-top: 42px;\n  padding-bottom: 16px;\n  text-decoration: none !important;\n  width: 217px;\n}\n#home-text-image[data-v-782dcf83] {\n  color: #FC4748;\n  margin-top: 83px;\n}\n@media (max-width: 766px) {\n#home-arbizon[data-v-782dcf83] {\n    background-image: url(\"/images/desktop_section1_background.svg\");\n    background-position: top -156px right 0;\n    background-repeat: no-repeat;\n    background-size: 320px 293px;\n    height: auto;\n    width: 100%;\n}\n#home-text-image[data-v-782dcf83] {\n    margin-top: 60px;\n}\n#home-last-hike_title[data-v-782dcf83] {\n    font-size: 38px;\n    font-weight: 900;\n    line-height: 40px;\n    letter-spacing: 0.4px;\n}\n}\n@media (max-height: 880px) {\n#home-arbizon[data-v-782dcf83] {\n    height: auto;\n}\n}", ""]);
+exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#home-hero[data-v-782dcf83] {\n  background-image: url(\"/images/desktop_hero_background.jpg\");\n  background-repeat: no-repeat;\n  background-size: cover;\n  min-height: 100vh;\n  width: 100%;\n}\n#home-hero-content[data-v-782dcf83] {\n  color: #FFFFFF;\n  padding-top: 200px;\n}\n#home-hero-content_title[data-v-782dcf83] {\n  margin-top: 54px;\n  width: 274px;\n}\n#home-hero-content_link[data-v-782dcf83] {\n  border-bottom: 4px solid #FC4748;\n  margin-left: 0;\n  margin-top: 54px;\n  padding-bottom: 16px;\n  padding-left: 0;\n  padding-right: 0;\n  width: 235px;\n}\n#home-arbizon[data-v-782dcf83] {\n  background-image: url(\"/images/desktop_section1_background.svg\");\n  background-position: right top;\n  background-repeat: no-repeat;\n  height: 100vh;\n  width: 100%;\n}\n#home-arbizon-content_description[data-v-782dcf83] {\n  color: #FC4748;\n  padding-top: 177px;\n}\n#home-arbizon-content_title[data-v-782dcf83] {\n  color: #000000;\n  padding-right: 31px;\n  padding-top: 40px;\n}\n#home-arbizon-content_text[data-v-782dcf83] {\n  color: #6F7072;\n  padding-top: 69px;\n}\n#home-parallax[data-v-782dcf83] {\n  background-attachment: fixed;\n  background-image: url(\"/images/desktop_parallax_background.jpg\");\n  background-position: center;\n  background-repeat: no-repeat;\n  background-size: cover;\n  height: 70vh;\n  margin-bottom: 82px;\n  width: 100%;\n}\n#home-last-hike_difficulty[data-v-782dcf83] {\n  color: #FC4748;\n  margin-top: 45px;\n}\n#home-last-hike_title[data-v-782dcf83] {\n  margin-top: 42px;\n}\n#home-last-hike_text[data-v-782dcf83] {\n  color: #6F7072;\n  margin-top: 33px;\n}\n#home-last-hike_link[data-v-782dcf83] {\n  border-bottom: 4px solid #FC4748;\n  color: inherit;\n  margin-top: 42px;\n  padding-bottom: 16px;\n  text-decoration: none !important;\n  width: 217px;\n}\n#home-text-image[data-v-782dcf83] {\n  color: #FC4748;\n  margin-top: 83px;\n}\n@media (max-width: 766px) {\n#home-arbizon[data-v-782dcf83] {\n    background-image: url(\"/images/desktop_section1_background.svg\");\n    background-position: top -156px right 0;\n    background-repeat: no-repeat;\n    background-size: 320px 293px;\n    height: auto;\n    width: 100%;\n}\n#home-text-image[data-v-782dcf83] {\n    margin-top: 60px;\n}\n#home-last-hike_title[data-v-782dcf83] {\n    font-size: 38px;\n    font-weight: 900;\n    letter-spacing: 0.4px;\n    line-height: 40px;\n}\n}\n@media (max-height: 880px) {\n#home-arbizon[data-v-782dcf83] {\n    height: auto;\n}\n}", ""]);
 
 // exports
 
@@ -7275,7 +7706,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#social[data-v-20649716] {\n  background-color: #FFFFFF;\n}\n#social-title[data-v-20649716] {\n  padding-top: 75px;\n}\n#social-text[data-v-20649716], #social-icon[data-v-20649716] {\n  padding-top: 32px;\n}\n.social-icon[data-v-20649716] {\n  width: 32px;\n  height: 32px;\n  margin-right: 22px;\n}", ""]);
+exports.push([module.i, "@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Bold.ttf\");\n  font-weight: bold;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Light.ttf\");\n  font-weight: 300;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Regular.ttf\");\n  font-weight: 400;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Medium.ttf\");\n  font-weight: 500;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Heavy.ttf\");\n  font-weight: 900;\n}\n@font-face {\n  font-family: \"SF-Pro-Display\";\n  src: url(\"/fonts/SF-Pro-Display-Black.ttf\");\n  font-weight: 1000;\n}\n#social[data-v-20649716] {\n  background-color: #FFFFFF;\n}\n#social-title[data-v-20649716] {\n  padding-top: 75px;\n}\n#social-text[data-v-20649716], #social-icon[data-v-20649716] {\n  padding-top: 32px;\n}\n.social-icon[data-v-20649716] {\n  height: 32px;\n  margin-right: 22px;\n  width: 32px;\n}", ""]);
 
 // exports
 
@@ -39495,22 +39926,192 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c(
+    "section",
+    { attrs: { id: "hike-raptor" } },
+    [
+      _c("div", { attrs: { id: "hike-raptor-hero" } }, [
+        _c(
+          "div",
+          {
+            staticClass: "container",
+            attrs: { id: "hike-raptor-hero-content" }
+          },
+          [
+            _c(
+              "div",
+              {
+                staticClass: "row font-text-small",
+                attrs: { id: "hike-raptor-hero-content_difficulty" }
+              },
+              [
+                _c("div", { staticClass: "col-md-12" }, [
+                  _vm._v(
+                    "\n                    A " +
+                      _vm._s(_vm.hike.hike_difficulty.toLowerCase()) +
+                      " hike\n                "
+                  )
+                ])
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass: "row font-title-big",
+                attrs: { id: "hike-raptor-hero-content_title" }
+              },
+              [
+                _c("div", { staticClass: "col-md-10" }, [
+                  _vm._v(
+                    "\n                    " +
+                      _vm._s(_vm.hike.hike_title) +
+                      "\n                "
+                  )
+                ])
+              ]
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _c("social-component"),
+      _vm._v(" "),
+      _c("comments-component")
+    ],
+    1
+  )
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "container" }, [
+      _c(
+        "div",
+        {
+          staticClass: "row font-text-large",
+          attrs: { id: "hike-raptor-body_intro" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _c("p", [
+              _vm._v(
+                "\n                    The normal route to the Arbizon summit is on the south side, the Aulon Valley.\n                    The starting point is the barns of Lurgues, near the village of Aulon,\n                    about 1400 m above sea level.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Another way of access exists: it takes the valley of the lake of Arou and passes\n                    within the Arbizon-Montfaucon circus to climb on the crest by the breach of Aurey…\n                "
+              )
+            ])
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "row font-title",
+          attrs: { id: "hike-raptor-body_title" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _vm._v(
+              "\n                The most beautiful view of the Pyrénées.\n            "
+            )
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "row font-text-big",
+          attrs: { id: "hike-raptor-body_texte" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _c("p", [
+              _vm._v(
+                "\n                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et accumsan \n                    tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed tempor \n                    tincidunt maximus. Pellentesque eget quam lectus. Curabitur dictum quis augue eu vulputate. \n                    Pellentesque diam velit, tempus nec risus a, accumsan lobortis mi. Sed nec maximus nulla, \n                    eu congue erat. Phasellus tincidunt ligula a arcu lacinia, in fringilla nulla rhoncus. \n                    Sed quis viverra risus. Morbi interdum malesuada dictum. Pellentesque risus sem, fermentum \n                    non felis non, malesuada lobortis lectus. Maecenas mollis augue euismod, sollicitudin ligula a\n                    , ornare urna. Proin condimentum malesuada sapien, nec dapibus eros dapibus nec.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Fusce ullamcorper dictum porta. Aliquam finibus, erat posuere volutpat elementum, \n                    nulla tellus placerat erat, et accumsan magna elit vel est. Maecenas porttitor mauris \n                    feugiat mi faucibus tristique et vel tortor. Pellentesque habitant morbi tristique senectus et \n                    netus et malesuada fames ac turpis egestas. Quisque diam leo, feugiat eget luctus at, a\n                    ccumsan a ipsum. Curabitur laoreet arcu sit amet ligula lobortis lacinia. Vivamus sit amet \n                    sapien non dolor porta porta a eget metus. Phasellus facilisis faucibus lacus, sed \n                    egestas tellus consequat at. Sed tempus fringilla arcu, a varius tellus elementum hendrerit. Morbi \n                    varius semper nunc, id sodales justo pharetra in. Donec vel rutrum enim, eget finibus tortor. \n                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum euismod sem et dolor lobortis fringilla.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Sed sollicitudin leo sit amet maximus venenatis. Pellentesque malesuada placerat metus, \n                    ut tincidunt nibh maximus sit amet. Maecenas vulputate, magna a ultricies consequat, \n                    metus sem euismod ipsum, quis pellentesque nisl justo a felis. Suspendisse fermentum \n                    ipsum id gravida volutpat. Cras aliquam, leo non vehicula consequat, turpis urna pellentesque nibh, \n                    in dignissim magna augue a odio. Pellentesque eros mauris, aliquam ac facilisis ac, \n                    pharetra quis risus. Nunc luctus risus orci, a imperdiet enim molestie dignissim. \n                    Etiam efficitur sollicitudin interdum. Cras euismod tortor mi, in varius leo posuere cursus. Suspendisse\n                    potenti. Sed consectetur pulvinar orci sed ornare..\n                "
+              )
+            ])
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
     return _c(
-      "section",
-      { staticClass: "container-fluid", attrs: { id: "hike-raptor" } },
+      "div",
+      { staticClass: "container-fluid", attrs: { id: "hike-raptor-images" } },
       [
-        _c("div", { staticClass: "row no-gutters row-full-height" }, [
-          _c("div", {
-            staticClass: "col-md-12",
-            attrs: { id: "hike-raptor-background" }
-          })
+        _c("div", { staticClass: "row row-no-margin" }, [
+          _c("div", { staticClass: "col-md-6 no-padding hike-raptor-image" }, [
+            _c("img", {
+              staticClass: "img-fluid image-desktop",
+              attrs: {
+                src: "/images/desktop_section3_background1.jpg",
+                alt: "Montain raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticClass: "img-fluid image-mobile",
+              attrs: {
+                src: "/images/mobile_section3_background1.jpg",
+                alt: "Montain raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("span", { staticClass: "label-image" }, [
+              _vm._v("Photo 1 article")
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-md-6 no-padding hike-raptor-image" }, [
+            _c("img", {
+              staticClass: "img-fluid image-desktop",
+              attrs: {
+                src: "/images/desktop_section3_background2.jpg",
+                alt: "Lake raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticClass: "img-fluid image-mobile",
+              attrs: {
+                src: "/images/mobile_section3_background2.jpg",
+                alt: "Lake raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("span", { staticClass: "label-image" }, [
+              _vm._v("Photo 2 article")
+            ])
+          ])
         ])
       ]
     )
@@ -39537,22 +40138,192 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c(
+    "section",
+    { attrs: { id: "hike-raptor" } },
+    [
+      _c("div", { attrs: { id: "hike-raptor-hero" } }, [
+        _c(
+          "div",
+          {
+            staticClass: "container",
+            attrs: { id: "hike-raptor-hero-content" }
+          },
+          [
+            _c(
+              "div",
+              {
+                staticClass: "row font-text-small",
+                attrs: { id: "hike-raptor-hero-content_difficulty" }
+              },
+              [
+                _c("div", { staticClass: "col-md-12" }, [
+                  _vm._v(
+                    "\n                    A " +
+                      _vm._s(_vm.hike.hike_difficulty.toLowerCase()) +
+                      " hike\n                "
+                  )
+                ])
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass: "row font-title-big",
+                attrs: { id: "hike-raptor-hero-content_title" }
+              },
+              [
+                _c("div", { staticClass: "col-md-10" }, [
+                  _vm._v(
+                    "\n                    " +
+                      _vm._s(_vm.hike.hike_title) +
+                      "\n                "
+                  )
+                ])
+              ]
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _c("social-component"),
+      _vm._v(" "),
+      _c("comments-component")
+    ],
+    1
+  )
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "container" }, [
+      _c(
+        "div",
+        {
+          staticClass: "row font-text-large",
+          attrs: { id: "hike-raptor-body_intro" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _c("p", [
+              _vm._v(
+                "\n                    The normal route to the Arbizon summit is on the south side, the Aulon Valley.\n                    The starting point is the barns of Lurgues, near the village of Aulon,\n                    about 1400 m above sea level.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Another way of access exists: it takes the valley of the lake of Arou and passes\n                    within the Arbizon-Montfaucon circus to climb on the crest by the breach of Aurey…\n                "
+              )
+            ])
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "row font-title",
+          attrs: { id: "hike-raptor-body_title" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _vm._v(
+              "\n                The most beautiful view of the Pyrénées.\n            "
+            )
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "row font-text-big",
+          attrs: { id: "hike-raptor-body_texte" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _c("p", [
+              _vm._v(
+                "\n                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et accumsan \n                    tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed tempor \n                    tincidunt maximus. Pellentesque eget quam lectus. Curabitur dictum quis augue eu vulputate. \n                    Pellentesque diam velit, tempus nec risus a, accumsan lobortis mi. Sed nec maximus nulla, \n                    eu congue erat. Phasellus tincidunt ligula a arcu lacinia, in fringilla nulla rhoncus. \n                    Sed quis viverra risus. Morbi interdum malesuada dictum. Pellentesque risus sem, fermentum \n                    non felis non, malesuada lobortis lectus. Maecenas mollis augue euismod, sollicitudin ligula a\n                    , ornare urna. Proin condimentum malesuada sapien, nec dapibus eros dapibus nec.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Fusce ullamcorper dictum porta. Aliquam finibus, erat posuere volutpat elementum, \n                    nulla tellus placerat erat, et accumsan magna elit vel est. Maecenas porttitor mauris \n                    feugiat mi faucibus tristique et vel tortor. Pellentesque habitant morbi tristique senectus et \n                    netus et malesuada fames ac turpis egestas. Quisque diam leo, feugiat eget luctus at, a\n                    ccumsan a ipsum. Curabitur laoreet arcu sit amet ligula lobortis lacinia. Vivamus sit amet \n                    sapien non dolor porta porta a eget metus. Phasellus facilisis faucibus lacus, sed \n                    egestas tellus consequat at. Sed tempus fringilla arcu, a varius tellus elementum hendrerit. Morbi \n                    varius semper nunc, id sodales justo pharetra in. Donec vel rutrum enim, eget finibus tortor. \n                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum euismod sem et dolor lobortis fringilla.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Sed sollicitudin leo sit amet maximus venenatis. Pellentesque malesuada placerat metus, \n                    ut tincidunt nibh maximus sit amet. Maecenas vulputate, magna a ultricies consequat, \n                    metus sem euismod ipsum, quis pellentesque nisl justo a felis. Suspendisse fermentum \n                    ipsum id gravida volutpat. Cras aliquam, leo non vehicula consequat, turpis urna pellentesque nibh, \n                    in dignissim magna augue a odio. Pellentesque eros mauris, aliquam ac facilisis ac, \n                    pharetra quis risus. Nunc luctus risus orci, a imperdiet enim molestie dignissim. \n                    Etiam efficitur sollicitudin interdum. Cras euismod tortor mi, in varius leo posuere cursus. Suspendisse\n                    potenti. Sed consectetur pulvinar orci sed ornare..\n                "
+              )
+            ])
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
     return _c(
-      "section",
-      { staticClass: "container-fluid", attrs: { id: "hike-raptor" } },
+      "div",
+      { staticClass: "container-fluid", attrs: { id: "hike-raptor-images" } },
       [
-        _c("div", { staticClass: "row no-gutters row-full-height" }, [
-          _c("div", {
-            staticClass: "col-md-12",
-            attrs: { id: "hike-raptor-background" }
-          })
+        _c("div", { staticClass: "row row-no-margin" }, [
+          _c("div", { staticClass: "col-md-6 no-padding hike-raptor-image" }, [
+            _c("img", {
+              staticClass: "img-fluid image-desktop",
+              attrs: {
+                src: "/images/desktop_section3_background1.jpg",
+                alt: "Montain raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticClass: "img-fluid image-mobile",
+              attrs: {
+                src: "/images/mobile_section3_background1.jpg",
+                alt: "Montain raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("span", { staticClass: "label-image" }, [
+              _vm._v("Photo 1 article")
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-md-6 no-padding hike-raptor-image" }, [
+            _c("img", {
+              staticClass: "img-fluid image-desktop",
+              attrs: {
+                src: "/images/desktop_section3_background2.jpg",
+                alt: "Lake raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticClass: "img-fluid image-mobile",
+              attrs: {
+                src: "/images/mobile_section3_background2.jpg",
+                alt: "Lake raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("span", { staticClass: "label-image" }, [
+              _vm._v("Photo 2 article")
+            ])
+          ])
         ])
       ]
     )
@@ -39791,22 +40562,192 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c(
+    "section",
+    { attrs: { id: "hike-raptor" } },
+    [
+      _c("div", { attrs: { id: "hike-raptor-hero" } }, [
+        _c(
+          "div",
+          {
+            staticClass: "container",
+            attrs: { id: "hike-raptor-hero-content" }
+          },
+          [
+            _c(
+              "div",
+              {
+                staticClass: "row font-text-small",
+                attrs: { id: "hike-raptor-hero-content_difficulty" }
+              },
+              [
+                _c("div", { staticClass: "col-md-12" }, [
+                  _vm._v(
+                    "\n                    A " +
+                      _vm._s(_vm.hike.hike_difficulty.toLowerCase()) +
+                      " hike\n                "
+                  )
+                ])
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass: "row font-title-big",
+                attrs: { id: "hike-raptor-hero-content_title" }
+              },
+              [
+                _c("div", { staticClass: "col-md-10" }, [
+                  _vm._v(
+                    "\n                    " +
+                      _vm._s(_vm.hike.hike_title) +
+                      "\n                "
+                  )
+                ])
+              ]
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _c("social-component"),
+      _vm._v(" "),
+      _c("comments-component")
+    ],
+    1
+  )
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "container" }, [
+      _c(
+        "div",
+        {
+          staticClass: "row font-text-large",
+          attrs: { id: "hike-raptor-body_intro" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _c("p", [
+              _vm._v(
+                "\n                    The normal route to the Arbizon summit is on the south side, the Aulon Valley.\n                    The starting point is the barns of Lurgues, near the village of Aulon,\n                    about 1400 m above sea level.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Another way of access exists: it takes the valley of the lake of Arou and passes\n                    within the Arbizon-Montfaucon circus to climb on the crest by the breach of Aurey…\n                "
+              )
+            ])
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "row font-title",
+          attrs: { id: "hike-raptor-body_title" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _vm._v(
+              "\n                The most beautiful view of the Pyrénées.\n            "
+            )
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "row font-text-big",
+          attrs: { id: "hike-raptor-body_texte" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _c("p", [
+              _vm._v(
+                "\n                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et accumsan \n                    tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed tempor \n                    tincidunt maximus. Pellentesque eget quam lectus. Curabitur dictum quis augue eu vulputate. \n                    Pellentesque diam velit, tempus nec risus a, accumsan lobortis mi. Sed nec maximus nulla, \n                    eu congue erat. Phasellus tincidunt ligula a arcu lacinia, in fringilla nulla rhoncus. \n                    Sed quis viverra risus. Morbi interdum malesuada dictum. Pellentesque risus sem, fermentum \n                    non felis non, malesuada lobortis lectus. Maecenas mollis augue euismod, sollicitudin ligula a\n                    , ornare urna. Proin condimentum malesuada sapien, nec dapibus eros dapibus nec.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Fusce ullamcorper dictum porta. Aliquam finibus, erat posuere volutpat elementum, \n                    nulla tellus placerat erat, et accumsan magna elit vel est. Maecenas porttitor mauris \n                    feugiat mi faucibus tristique et vel tortor. Pellentesque habitant morbi tristique senectus et \n                    netus et malesuada fames ac turpis egestas. Quisque diam leo, feugiat eget luctus at, a\n                    ccumsan a ipsum. Curabitur laoreet arcu sit amet ligula lobortis lacinia. Vivamus sit amet \n                    sapien non dolor porta porta a eget metus. Phasellus facilisis faucibus lacus, sed \n                    egestas tellus consequat at. Sed tempus fringilla arcu, a varius tellus elementum hendrerit. Morbi \n                    varius semper nunc, id sodales justo pharetra in. Donec vel rutrum enim, eget finibus tortor. \n                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum euismod sem et dolor lobortis fringilla.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Sed sollicitudin leo sit amet maximus venenatis. Pellentesque malesuada placerat metus, \n                    ut tincidunt nibh maximus sit amet. Maecenas vulputate, magna a ultricies consequat, \n                    metus sem euismod ipsum, quis pellentesque nisl justo a felis. Suspendisse fermentum \n                    ipsum id gravida volutpat. Cras aliquam, leo non vehicula consequat, turpis urna pellentesque nibh, \n                    in dignissim magna augue a odio. Pellentesque eros mauris, aliquam ac facilisis ac, \n                    pharetra quis risus. Nunc luctus risus orci, a imperdiet enim molestie dignissim. \n                    Etiam efficitur sollicitudin interdum. Cras euismod tortor mi, in varius leo posuere cursus. Suspendisse\n                    potenti. Sed consectetur pulvinar orci sed ornare..\n                "
+              )
+            ])
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
     return _c(
-      "section",
-      { staticClass: "container-fluid", attrs: { id: "hike-raptor" } },
+      "div",
+      { staticClass: "container-fluid", attrs: { id: "hike-raptor-images" } },
       [
-        _c("div", { staticClass: "row no-gutters row-full-height" }, [
-          _c("div", {
-            staticClass: "col-md-12",
-            attrs: { id: "hike-raptor-background" }
-          })
+        _c("div", { staticClass: "row row-no-margin" }, [
+          _c("div", { staticClass: "col-md-6 no-padding hike-raptor-image" }, [
+            _c("img", {
+              staticClass: "img-fluid image-desktop",
+              attrs: {
+                src: "/images/desktop_section3_background1.jpg",
+                alt: "Montain raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticClass: "img-fluid image-mobile",
+              attrs: {
+                src: "/images/mobile_section3_background1.jpg",
+                alt: "Montain raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("span", { staticClass: "label-image" }, [
+              _vm._v("Photo 1 article")
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-md-6 no-padding hike-raptor-image" }, [
+            _c("img", {
+              staticClass: "img-fluid image-desktop",
+              attrs: {
+                src: "/images/desktop_section3_background2.jpg",
+                alt: "Lake raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticClass: "img-fluid image-mobile",
+              attrs: {
+                src: "/images/mobile_section3_background2.jpg",
+                alt: "Lake raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("span", { staticClass: "label-image" }, [
+              _vm._v("Photo 2 article")
+            ])
+          ])
         ])
       ]
     )
@@ -39833,22 +40774,192 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c(
+    "section",
+    { attrs: { id: "hike-raptor" } },
+    [
+      _c("div", { attrs: { id: "hike-raptor-hero" } }, [
+        _c(
+          "div",
+          {
+            staticClass: "container",
+            attrs: { id: "hike-raptor-hero-content" }
+          },
+          [
+            _c(
+              "div",
+              {
+                staticClass: "row font-text-small",
+                attrs: { id: "hike-raptor-hero-content_difficulty" }
+              },
+              [
+                _c("div", { staticClass: "col-md-12" }, [
+                  _vm._v(
+                    "\n                    A " +
+                      _vm._s(_vm.hike.hike_difficulty.toLowerCase()) +
+                      " hike\n                "
+                  )
+                ])
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass: "row font-title-big",
+                attrs: { id: "hike-raptor-hero-content_title" }
+              },
+              [
+                _c("div", { staticClass: "col-md-10" }, [
+                  _vm._v(
+                    "\n                    " +
+                      _vm._s(_vm.hike.hike_title) +
+                      "\n                "
+                  )
+                ])
+              ]
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _c("social-component"),
+      _vm._v(" "),
+      _c("comments-component")
+    ],
+    1
+  )
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "container" }, [
+      _c(
+        "div",
+        {
+          staticClass: "row font-text-large",
+          attrs: { id: "hike-raptor-body_intro" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _c("p", [
+              _vm._v(
+                "\n                    The normal route to the Arbizon summit is on the south side, the Aulon Valley.\n                    The starting point is the barns of Lurgues, near the village of Aulon,\n                    about 1400 m above sea level.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Another way of access exists: it takes the valley of the lake of Arou and passes\n                    within the Arbizon-Montfaucon circus to climb on the crest by the breach of Aurey…\n                "
+              )
+            ])
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "row font-title",
+          attrs: { id: "hike-raptor-body_title" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _vm._v(
+              "\n                The most beautiful view of the Pyrénées.\n            "
+            )
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "row font-text-big",
+          attrs: { id: "hike-raptor-body_texte" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _c("p", [
+              _vm._v(
+                "\n                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et accumsan \n                    tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed tempor \n                    tincidunt maximus. Pellentesque eget quam lectus. Curabitur dictum quis augue eu vulputate. \n                    Pellentesque diam velit, tempus nec risus a, accumsan lobortis mi. Sed nec maximus nulla, \n                    eu congue erat. Phasellus tincidunt ligula a arcu lacinia, in fringilla nulla rhoncus. \n                    Sed quis viverra risus. Morbi interdum malesuada dictum. Pellentesque risus sem, fermentum \n                    non felis non, malesuada lobortis lectus. Maecenas mollis augue euismod, sollicitudin ligula a\n                    , ornare urna. Proin condimentum malesuada sapien, nec dapibus eros dapibus nec.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Fusce ullamcorper dictum porta. Aliquam finibus, erat posuere volutpat elementum, \n                    nulla tellus placerat erat, et accumsan magna elit vel est. Maecenas porttitor mauris \n                    feugiat mi faucibus tristique et vel tortor. Pellentesque habitant morbi tristique senectus et \n                    netus et malesuada fames ac turpis egestas. Quisque diam leo, feugiat eget luctus at, a\n                    ccumsan a ipsum. Curabitur laoreet arcu sit amet ligula lobortis lacinia. Vivamus sit amet \n                    sapien non dolor porta porta a eget metus. Phasellus facilisis faucibus lacus, sed \n                    egestas tellus consequat at. Sed tempus fringilla arcu, a varius tellus elementum hendrerit. Morbi \n                    varius semper nunc, id sodales justo pharetra in. Donec vel rutrum enim, eget finibus tortor. \n                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum euismod sem et dolor lobortis fringilla.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Sed sollicitudin leo sit amet maximus venenatis. Pellentesque malesuada placerat metus, \n                    ut tincidunt nibh maximus sit amet. Maecenas vulputate, magna a ultricies consequat, \n                    metus sem euismod ipsum, quis pellentesque nisl justo a felis. Suspendisse fermentum \n                    ipsum id gravida volutpat. Cras aliquam, leo non vehicula consequat, turpis urna pellentesque nibh, \n                    in dignissim magna augue a odio. Pellentesque eros mauris, aliquam ac facilisis ac, \n                    pharetra quis risus. Nunc luctus risus orci, a imperdiet enim molestie dignissim. \n                    Etiam efficitur sollicitudin interdum. Cras euismod tortor mi, in varius leo posuere cursus. Suspendisse\n                    potenti. Sed consectetur pulvinar orci sed ornare..\n                "
+              )
+            ])
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
     return _c(
-      "section",
-      { staticClass: "container-fluid", attrs: { id: "hike-raptor" } },
+      "div",
+      { staticClass: "container-fluid", attrs: { id: "hike-raptor-images" } },
       [
-        _c("div", { staticClass: "row no-gutters row-full-height" }, [
-          _c("div", {
-            staticClass: "col-md-12",
-            attrs: { id: "hike-raptor-background" }
-          })
+        _c("div", { staticClass: "row row-no-margin" }, [
+          _c("div", { staticClass: "col-md-6 no-padding hike-raptor-image" }, [
+            _c("img", {
+              staticClass: "img-fluid image-desktop",
+              attrs: {
+                src: "/images/desktop_section3_background1.jpg",
+                alt: "Montain raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticClass: "img-fluid image-mobile",
+              attrs: {
+                src: "/images/mobile_section3_background1.jpg",
+                alt: "Montain raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("span", { staticClass: "label-image" }, [
+              _vm._v("Photo 1 article")
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-md-6 no-padding hike-raptor-image" }, [
+            _c("img", {
+              staticClass: "img-fluid image-desktop",
+              attrs: {
+                src: "/images/desktop_section3_background2.jpg",
+                alt: "Lake raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticClass: "img-fluid image-mobile",
+              attrs: {
+                src: "/images/mobile_section3_background2.jpg",
+                alt: "Lake raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("span", { staticClass: "label-image" }, [
+              _vm._v("Photo 2 article")
+            ])
+          ])
         ])
       ]
     )
@@ -39875,22 +40986,192 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _vm._m(0)
+  return _c(
+    "section",
+    { attrs: { id: "hike-raptor" } },
+    [
+      _c("div", { attrs: { id: "hike-raptor-hero" } }, [
+        _c(
+          "div",
+          {
+            staticClass: "container",
+            attrs: { id: "hike-raptor-hero-content" }
+          },
+          [
+            _c(
+              "div",
+              {
+                staticClass: "row font-text-small",
+                attrs: { id: "hike-raptor-hero-content_difficulty" }
+              },
+              [
+                _c("div", { staticClass: "col-md-12" }, [
+                  _vm._v(
+                    "\n                    A " +
+                      _vm._s(_vm.hike.hike_difficulty.toLowerCase()) +
+                      " hike\n                "
+                  )
+                ])
+              ]
+            ),
+            _vm._v(" "),
+            _c(
+              "div",
+              {
+                staticClass: "row font-title-big",
+                attrs: { id: "hike-raptor-hero-content_title" }
+              },
+              [
+                _c("div", { staticClass: "col-md-10" }, [
+                  _vm._v(
+                    "\n                    " +
+                      _vm._s(_vm.hike.hike_title) +
+                      "\n                "
+                  )
+                ])
+              ]
+            )
+          ]
+        )
+      ]),
+      _vm._v(" "),
+      _vm._m(0),
+      _vm._v(" "),
+      _vm._m(1),
+      _vm._v(" "),
+      _c("social-component"),
+      _vm._v(" "),
+      _c("comments-component")
+    ],
+    1
+  )
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "container" }, [
+      _c(
+        "div",
+        {
+          staticClass: "row font-text-large",
+          attrs: { id: "hike-raptor-body_intro" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _c("p", [
+              _vm._v(
+                "\n                    The normal route to the Arbizon summit is on the south side, the Aulon Valley.\n                    The starting point is the barns of Lurgues, near the village of Aulon,\n                    about 1400 m above sea level.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Another way of access exists: it takes the valley of the lake of Arou and passes\n                    within the Arbizon-Montfaucon circus to climb on the crest by the breach of Aurey…\n                "
+              )
+            ])
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "row font-title",
+          attrs: { id: "hike-raptor-body_title" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _vm._v(
+              "\n                The most beautiful view of the Pyrénées.\n            "
+            )
+          ])
+        ]
+      ),
+      _vm._v(" "),
+      _c(
+        "div",
+        {
+          staticClass: "row font-text-big",
+          attrs: { id: "hike-raptor-body_texte" }
+        },
+        [
+          _c("div", { staticClass: "col-md-12" }, [
+            _c("p", [
+              _vm._v(
+                "\n                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et accumsan \n                    tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed tempor \n                    tincidunt maximus. Pellentesque eget quam lectus. Curabitur dictum quis augue eu vulputate. \n                    Pellentesque diam velit, tempus nec risus a, accumsan lobortis mi. Sed nec maximus nulla, \n                    eu congue erat. Phasellus tincidunt ligula a arcu lacinia, in fringilla nulla rhoncus. \n                    Sed quis viverra risus. Morbi interdum malesuada dictum. Pellentesque risus sem, fermentum \n                    non felis non, malesuada lobortis lectus. Maecenas mollis augue euismod, sollicitudin ligula a\n                    , ornare urna. Proin condimentum malesuada sapien, nec dapibus eros dapibus nec.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Fusce ullamcorper dictum porta. Aliquam finibus, erat posuere volutpat elementum, \n                    nulla tellus placerat erat, et accumsan magna elit vel est. Maecenas porttitor mauris \n                    feugiat mi faucibus tristique et vel tortor. Pellentesque habitant morbi tristique senectus et \n                    netus et malesuada fames ac turpis egestas. Quisque diam leo, feugiat eget luctus at, a\n                    ccumsan a ipsum. Curabitur laoreet arcu sit amet ligula lobortis lacinia. Vivamus sit amet \n                    sapien non dolor porta porta a eget metus. Phasellus facilisis faucibus lacus, sed \n                    egestas tellus consequat at. Sed tempus fringilla arcu, a varius tellus elementum hendrerit. Morbi \n                    varius semper nunc, id sodales justo pharetra in. Donec vel rutrum enim, eget finibus tortor. \n                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vestibulum euismod sem et dolor lobortis fringilla.\n                "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "\n                    Sed sollicitudin leo sit amet maximus venenatis. Pellentesque malesuada placerat metus, \n                    ut tincidunt nibh maximus sit amet. Maecenas vulputate, magna a ultricies consequat, \n                    metus sem euismod ipsum, quis pellentesque nisl justo a felis. Suspendisse fermentum \n                    ipsum id gravida volutpat. Cras aliquam, leo non vehicula consequat, turpis urna pellentesque nibh, \n                    in dignissim magna augue a odio. Pellentesque eros mauris, aliquam ac facilisis ac, \n                    pharetra quis risus. Nunc luctus risus orci, a imperdiet enim molestie dignissim. \n                    Etiam efficitur sollicitudin interdum. Cras euismod tortor mi, in varius leo posuere cursus. Suspendisse\n                    potenti. Sed consectetur pulvinar orci sed ornare..\n                "
+              )
+            ])
+          ])
+        ]
+      )
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
     return _c(
-      "section",
-      { staticClass: "container-fluid", attrs: { id: "hike-raptor" } },
+      "div",
+      { staticClass: "container-fluid", attrs: { id: "hike-raptor-images" } },
       [
-        _c("div", { staticClass: "row no-gutters row-full-height" }, [
-          _c("div", {
-            staticClass: "col-md-12",
-            attrs: { id: "hike-raptor-background" }
-          })
+        _c("div", { staticClass: "row row-no-margin" }, [
+          _c("div", { staticClass: "col-md-6 no-padding hike-raptor-image" }, [
+            _c("img", {
+              staticClass: "img-fluid image-desktop",
+              attrs: {
+                src: "/images/desktop_section3_background1.jpg",
+                alt: "Montain raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticClass: "img-fluid image-mobile",
+              attrs: {
+                src: "/images/mobile_section3_background1.jpg",
+                alt: "Montain raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("span", { staticClass: "label-image" }, [
+              _vm._v("Photo 1 article")
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "col-md-6 no-padding hike-raptor-image" }, [
+            _c("img", {
+              staticClass: "img-fluid image-desktop",
+              attrs: {
+                src: "/images/desktop_section3_background2.jpg",
+                alt: "Lake raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("img", {
+              staticClass: "img-fluid image-mobile",
+              attrs: {
+                src: "/images/mobile_section3_background2.jpg",
+                alt: "Lake raptor hike"
+              }
+            }),
+            _vm._v(" "),
+            _c("span", { staticClass: "label-image" }, [
+              _vm._v("Photo 2 article")
+            ])
+          ])
         ])
       ]
     )
@@ -40343,7 +41624,7 @@ var staticRenderFns = [
           [
             _c("div", { staticClass: "col-md-12" }, [
               _vm._v(
-                "\n            Do you like this hike ? Share it on Facebook and Twitter !\n            \n        "
+                "\n            Do you like this hike ? Share it on Facebook and Twitter !           \n        "
               )
             ])
           ]
@@ -56487,8 +57768,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\wamp\www\WeCom4U-Test\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\wamp\www\WeCom4U-Test\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\Kiri\Documents\Luc\Web\WeCom4U-Test\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\Kiri\Documents\Luc\Web\WeCom4U-Test\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

@@ -8,8 +8,7 @@
         </div>
         <div id="social-text" class="row font-text-big">
             <div class="col-md-12">
-                Do you like this hike ? Share it on Facebook and Twitter !
-                
+                Do you like this hike ? Share it on Facebook and Twitter !           
             </div>
         </div>
         <div id="social-icon" class="row">
@@ -20,6 +19,13 @@
         </div>
     </section>
 </template>
+
+<script>
+    export default {
+        props: {
+        },
+    }
+</script>
 
 <style lang="scss" scoped>
     @import '~@/_variables.scss';
@@ -37,15 +43,8 @@
     }
 
     .social-icon {
-        width: 32px;
         height: 32px;
         margin-right: 22px;
+        width: 32px;
     }
 </style>
-
-<script>
-    export default {
-        props: {
-        },
-    }
-</script>

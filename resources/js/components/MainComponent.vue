@@ -12,7 +12,6 @@
 </template>
 
 <script>
-
     import HeaderComponent from './HeaderComponent.vue';
     import FooterComponent from './FooterComponent.vue';
     import HikesListComponent from './HikesListComponent.vue';
