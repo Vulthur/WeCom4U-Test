@@ -41307,7 +41307,7 @@ var render = function() {
               on: { click: _vm.scrollToArbizon }
             },
             [
-              _c("div", { staticClass: "col-md-12" }, [
+              _c("div", { staticClass: "col-md-12 no-padding" }, [
                 _vm._v(
                   "\n                    Interested? Let’s go!\n                "
                 )

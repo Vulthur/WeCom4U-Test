@@ -14,7 +14,7 @@
                     </div>
                 </div>
                 <div @click="scrollToArbizon" id="home-hero-content_link" class="row font-link">
-                    <div class="col-md-12">
+                    <div class="col-md-12 no-padding">
                         Interested? Let’s go!
                     </div>
                 </div>
