@@ -14,6 +14,8 @@
 
 * Write .env file from the exemple.
 
+* php artisan migrate:refresh --seed
+
 * php artisan serve
 
 * Go to : http://localhost:8000/
